@@ -246,7 +246,7 @@ h1 {
 @media (max-width: 480px) {
     .search-container {
        top: 300px;
-       margin-top: 50px;
+       margin-top: 60px;
        width: 50%;
     }
     h1 {
@@ -261,7 +261,7 @@ h1 {
 @media (max-width: 768px) {
     .search-container {
         top: 400px;
-        margin-top: 50px;
+        margin-top: 80px;
         width: 70%;
     }
     h1 {
